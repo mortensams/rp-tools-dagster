@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:docs.dagster.io)",
+      "Bash(docker build:*)",
+      "Bash(docker run:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

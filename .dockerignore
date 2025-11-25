@@ -1,0 +1,36 @@
+# Git
+.git
+.gitignore
+
+# GitHub
+.github
+
+# Build scripts (not needed in image)
+build.sh
+build.ps1
+
+# Documentation
+README.md
+LICENSE
+
+# Python
+__pycache__
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv
+venv
+ENV
+.eggs
+*.egg-info
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
