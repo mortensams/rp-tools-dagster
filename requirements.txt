@@ -4,6 +4,7 @@ dagster-webserver>=1.9.0
 dagster-postgres>=0.25.0
 dagster-k8s>=0.25.0
 dagster-docker>=0.25.0
+dagster-dbt>=0.25.0
 
 # SQL Server connectivity
 pyodbc>=5.0.0
